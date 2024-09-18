@@ -21,7 +21,7 @@ import svg31viewicon from "../image/svg-image-31.svg";
 import bgbnb from '../image/bg.webp'
 import { Link } from "react-router-dom";
 import Navbar from "./Navbar";
-import PriviewId from "./PriviewId";
+// import PriviewId from "./PriviewId";
 
 import React, { useState, useEffect, useRef } from "react";
 import {

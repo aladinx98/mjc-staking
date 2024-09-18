@@ -5,7 +5,7 @@ import img4 from "../image/svg-image-4.svg";
 import tiffanysedo from "../image/blue-blur.png";
 import Navbar from "../component/Navbar";
 import img1 from "../image/Vector.svg";
-import PriviewId from "../component/PriviewId";
+// import PriviewId from "../component/PriviewId";
 import "./style.css";
 import { Link } from "react-router-dom";
 import {
